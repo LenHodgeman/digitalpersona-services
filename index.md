@@ -2,7 +2,7 @@
 layout: default
 title: DigitalPersona Services  
 nav_order: 1
-redirect from:"https://lenhodgeman.github.io/digitalpersona-services/index.html"
+redirect from:"https://lenhodgeman.github.io/digitalpersona-access-management-api/docs/digitalpersona-services.md"
 ---  
 ![](docs/assets/HID-logo.png)  
 
