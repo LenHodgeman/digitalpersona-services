@@ -4,12 +4,13 @@ title: DigitalPersona Services
 nav_order: 1
 redirect from:"https://lenhodgeman.github.io/digitalpersona-access-management-api/docs/digitalpersona-services.md"
 ---
-  
+
 ![](docs/assets/HID-logo.png)  
 
 [Download PDF](docs\assets\DigitalPersona Access Management API Overview.pdf){: .btn }&nbsp; &nbsp; &nbsp; &nbsp;[View Repo](https://lenhodgeman.github.io/DP-Access-Management-API/){: .btn } &nbsp;&nbsp;[DRAFT A113]  
 
 ### Web Access Services
+# Web Access Services
 
 This library provides a client for the DigitalPersona Web Access Management API.
 
