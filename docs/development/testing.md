@@ -1,3 +1,12 @@
+---
+layout: default
+title: Testing
+has_toc: false
+parent: Development
+nav_order: 3
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Testing
 
 ### Running tests

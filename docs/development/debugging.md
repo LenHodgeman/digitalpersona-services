@@ -1,3 +1,12 @@
+---
+layout: default
+title: Debugging
+has_toc: false
+parent: Development
+nav_order: 4
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Debugging
 
 ### Prerequisites

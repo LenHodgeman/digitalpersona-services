@@ -1,3 +1,12 @@
+---
+layout: default
+title: Coding Guides
+has_toc: false
+parent: Development
+nav_order: 1
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Coding Guides
 
 The library uses the TypeScript as a main language. It is transpiled to Javascript (`es5`, `es6` and `commonjs` platforms).

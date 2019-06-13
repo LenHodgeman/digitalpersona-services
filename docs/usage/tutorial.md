@@ -1,3 +1,12 @@
+---
+layout: default
+title: Tutorial
+has_toc: false  
+parent: Usage
+nav_order: 2
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Tutorial
 
 ### Getting started

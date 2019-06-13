@@ -1,6 +1,15 @@
-# Making a build
+---
+layout: default
+title: Building
+has_toc: false
+parent: Development
+nav_order: 2
+---
 
-## Installing dependencies
+![](../../docs/assets/HID-DPAM-svcs.png)
+## Making a build
+
+### Installing dependencies
 
 To get started, install dependencies first:
 
@@ -9,11 +18,11 @@ cd ./access-management
 yarn
 ```
 <a name="code"></a>
-## Build code
+### Build code
 
 To build the library:
 
-* from terminal: run `npm run-script build`, 
+* from terminal: run `npm run-script build`,
 * from VS Code: press `Ctrl+Shift+B`
 
 The build output (JavaScript files) will be put into following locations, according to a target:
@@ -22,7 +31,7 @@ The build output (JavaScript files) will be put into following locations, accord
 
 
 <a name="documentation"></a>
-## Build documentation
+### Build documentation
 
 To build API documentation:
 * from terminal: run `npm run-script docs`

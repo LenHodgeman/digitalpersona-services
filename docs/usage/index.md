@@ -1,3 +1,14 @@
+--
+layout: default
+title: Usage
+has_toc: false
+has_children: true
+permalink: /usage  
+nav_order: 2
+---
+###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Web Access Services / Usage / Overview  
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Usage
 
 DigitalPersona Web Access Management (DP WAM) is a set of web services for different access management tasks,

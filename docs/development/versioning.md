@@ -1,3 +1,12 @@
+---
+layout: default
+title: Versioning
+has_toc: false
+parent: Development
+nav_order: 6
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Package Versioning Guidelines
 
 ### Semantic Versioning

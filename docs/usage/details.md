@@ -1,3 +1,12 @@
+---
+layout: default
+title: Details
+has_toc: false
+parent: Usage
+nav_order: 1
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Details
 
 The library consists of following major parts:

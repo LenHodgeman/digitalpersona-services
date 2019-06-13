@@ -1,3 +1,12 @@
+---
+layout: default
+title: Documenting
+has_toc: false
+parent: Development
+nav_order: 5
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Documenting Guidelines
 
 All development documentation must be a part of the project source base,

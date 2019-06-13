@@ -1,3 +1,12 @@
+--
+layout: default
+title: Examples
+has_toc: false  
+parent: Usage
+nav_order: 3
+---
+
+![](../../docs/assets/HID-DPAM-svcs.png)
 ## Examples
 
 ### Build examples
