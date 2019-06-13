@@ -1,4 +1,4 @@
-# Details
+## Details
 
 The library consists of following major parts:
 

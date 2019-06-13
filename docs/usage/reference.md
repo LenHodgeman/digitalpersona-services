@@ -1,4 +1,4 @@
-# Reference
+## Reference
 
 See reference documentation [here](./../../dist/api/doc/access-management.md).
 
