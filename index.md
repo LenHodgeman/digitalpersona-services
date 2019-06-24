@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Usage
+title: Overview
 nav_order: 2
 ---
 ##### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Enrollment API / Overview  
