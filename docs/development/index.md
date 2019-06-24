@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Development
-has_toc: false
-has_children: true
-permalink: /development  
 nav_order: 3
 ---
 ## Information for developers
