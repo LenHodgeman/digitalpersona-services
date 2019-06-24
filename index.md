@@ -14,8 +14,8 @@ See the following links for detailed documentation.
 
 <table style="width:40%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:20%" ALIGN="left"><A HREF="docs/usage/index.html">Usage</A></th>
-    <th style="width:35%" ALIGN="left"><A HREF="docs/development/index.html">Development</A></th>
+    <th style="width:20%" ALIGN="left"><A HREF="docs/usage/">Usage</A></th>
+    <th style="width:35%" ALIGN="left"><A HREF="docs/development/">Development</A></th>
   </tr>
   <tr>
   <td valign="top" ><A HREF="docs/usage/details.html">Details</A></td>
