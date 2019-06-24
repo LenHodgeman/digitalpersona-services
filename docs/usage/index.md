@@ -8,8 +8,7 @@ nav_order: 2
 ![](../../docs/assets/HID-DPAM-svcs.png)
 ## Usage
 
-DigitalPersona Web Access Management (DP WAM) is a set of web services for different access management tasks,
-like user enrollment, identification, authentication, identity claims issuance, access policy management
+DigitalPersona Web Access Management (DP WAM) is a set of web services utilized for various access management tasks such as user enrollment, identification, authentication, identity claims issuance, access policy management
 etc.
 
 * [Details](details.md)
