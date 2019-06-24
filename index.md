@@ -12,8 +12,7 @@ This library provides a client for the DigitalPersona Web Access Management API.
 
 See the following links for detailed documentation.
 
-
-<table style="width:95%;margin-left:auto;margin-right:auto;">
+<table style="width:40%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:20%" ALIGN="left"><A HREF="docs/usage/index.md">Usage</A></th>
     <th style="width:35%" ALIGN="left"><A HREF="docs/development/index.md">Development</A></th>
@@ -39,9 +38,8 @@ See the following links for detailed documentation.
   <tr>
     <td valign="top">&nbsp;</td>
     <td valign="top"><A HREF="docs/deploy/debugging.md">Debugging</A></td>
-    <tr>
-      <td valign="top">&nbsp;</td>
-      <td valign="top"><A HREF="docs/deploy/documenting.md">Documenting</A></td>
-    </tr>        
-  </tr>    
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top"><A HREF="docs/deploy/documenting.md">Documenting</A></td>
+  </tr>        
 </table>
