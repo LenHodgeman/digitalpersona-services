@@ -31,18 +31,18 @@ See the following links for detailed documentation.
   </tr>
   <tr>
     <td valign="top"><A HREF="docs/usage/how-to.html">How To ...</A></td>
-    <td valign="top"><A HREF="docs/deploy/deployment.html">Deployment</A></td>
+    <td valign="top"><A HREF="docs/development/deployment.html">Deployment</A></td>
   </tr>
   <tr>
     <td valign="top"><A HREF="docs/usage/reference.html">Reference</A></td>
-    <td valign="top"><A HREF="docs/deploy/coding.html">Coding</A></td>
+    <td valign="top"><A HREF="docs/development/coding.html">Coding</A></td>
   </tr>  
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="docs/deploy/debugging.html">Debugging</A></td>
+    <td valign="top"><A HREF="docs/development/debugging.html">Debugging</A></td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="docs/deploy/documenting.html">Documenting</A></td>
+    <td valign="top"><A HREF="docs/development/documenting.html">Documenting</A></td>
   </tr>        
 </table>
